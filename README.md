@@ -1,8 +1,4 @@
 <div align="center">
-
-<!-- Banner con tu nombre -->
-<img src="https://i.imgur.com/8QJc8yE.png" alt="Banner" width="100%">
-
 <!-- Título principal -->
 <h1>🚀 Derek Arguedas | Desarrollador Frontend</h1>
 <h3>💻 Transformando ideas en experiencias digitales excepcionales</h3>
