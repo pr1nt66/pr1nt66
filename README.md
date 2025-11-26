@@ -39,7 +39,7 @@
 
 <div align="center">
 
-### 👔 [StyleHub - Tienda de Moda](https://pr1nt66.github.io/stylehub-tienda)
+### 👔 [StyleHub - Tienda de Moda](https://pr1nt66.github.io)
 **E-commerce moderno con diseño elegante y completamente responsive**
 - 🎨 Diseño UI/UX profesional
 - 📱 Totalmente responsive
