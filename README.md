@@ -58,7 +58,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekarguedas&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" height="165">
 
 <!-- Streak de contribuciones -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=derekarguedas&theme=radical&hide_border=true" alt="Racha de contribuciones" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pr1nt66&theme=radical&hide_border=true" alt="Racha de contribuciones" height="165">
 
 </div>
 
