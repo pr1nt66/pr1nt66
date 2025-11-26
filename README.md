@@ -1,12 +1,5 @@
 <div align="center">
-
- __          __  _                          _ 
- \ \        / / | |                        | |
-  \ \  /\  / /__| | ___ ___  _ __ ___   ___| |
-   \ \/  \/ / _ \ |/ __/ _ \| '_ ` _ \ / _ \ |
-    \  /\  /  __/ | (_| (_) | | | | | |  __/_|
-     \/  \/ \___|_|\___\___/|_| |_| |_|\___(_)
-     
+  
 <!-- Título principal -->
 <h1>🚀 Derek Arguedas | Desarrollador Junior</h1>
 <h3>💻 Transformando ideas en experiencias digitales excepcionales</h3>
