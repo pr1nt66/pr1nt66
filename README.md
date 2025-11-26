@@ -21,32 +21,16 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🔧 **Herramientas & Plataformas**
+### 🔧 **Aprendido hasta el momento**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### 📚 **En Aprendizaje**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-</div>
-
-## 🌟 Proyectos Destacados
-
-<div align="center">
-
-### 👔 [StyleHub - Tienda de Moda](https://pr1nt66.github.io)
-**E-commerce moderno con diseño elegante y completamente responsive**
-- 🎨 Diseño UI/UX profesional
-- 📱 Totalmente responsive
-- ⚡ Optimizado para performance
-- 🛒 Experiencia de compra intuitiva
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
 </div>
 
 ## 📈 Estadísticas GitHub
@@ -56,6 +40,8 @@
 | ![Arthur Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pr1nt66&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pr1nt66&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pr1nt66&theme=nord_dark) |
 | :-: | :-: | :-: |
 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pr1nt66&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=pr1nt66k&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
 </div>
 
 ![Snake animation](https://github.com/juancondorijara/juancondorijara/blob/output/github-contribution-grid-snake-dark.svg)
