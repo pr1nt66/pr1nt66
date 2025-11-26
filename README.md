@@ -59,6 +59,8 @@
 
 </div>
 
+![Snake animation](https://github.com/juancondorijara/juancondorijara/blob/output/github-contribution-grid-snake-dark.svg)
+
 ## 📫 Contáctame
 
 <div align="center">
