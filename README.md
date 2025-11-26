@@ -54,7 +54,7 @@
 <div align="center">
 
 <!-- Streak de contribuciones -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pr1nt66&theme=radical&hide_border=true" alt="Racha de contribuciones" height="300">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pr1nt66&theme=radical&hide_border=true" alt="Racha de contribuciones" height="500">
 
 </div>
 
