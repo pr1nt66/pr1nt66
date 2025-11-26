@@ -1,4 +1,10 @@
 <div align="center">
+
+![Banner](https://raw.githubusercontent.com/pr1nt66/pr1nt66/main/banner.png)
+
+</div>
+
+<div align="center">
 <!-- Título principal -->
 <h1>🚀 Derek Arguedas | Desarrollador Junior</h1>
 <h3>💻 Transformando ideas en experiencias digitales excepcionales</h3>
