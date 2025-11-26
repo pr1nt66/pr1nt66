@@ -53,20 +53,8 @@
 
 <div align="center">
 
-<!-- Estadísticas principales -->
-<img src="https://github-readme-stats.vercel.app/api?username=pr1nt66&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas GitHub" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr1nt66&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" height="165">
-
 <!-- Streak de contribuciones -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pr1nt66&theme=radical&hide_border=true" alt="Racha de contribuciones" height="165">
-
-</div>
-
-## 🏆 Logros GitHub
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=derekarguedas&theme=radical&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pr1nt66&theme=radical&hide_border=true" alt="Racha de contribuciones" height="300">
 
 </div>
 
