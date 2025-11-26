@@ -12,8 +12,7 @@
 
 <div align="center">
 
-¡Hola! Soy un **desarrollador frontend apasionado** por crear interfaces web modernas, responsivas y centradas en el usuario. Mi objetivo es combinar diseño atractivo con código limpio y funcional.
-
+¡Hola! Soy un **desarrollador de aplicaciones** el cual es un fanatico por las paginas web y la ciberseguridad que siempre busca aprender
 </div>
 
 ## 🛠 Stack Tecnológico
