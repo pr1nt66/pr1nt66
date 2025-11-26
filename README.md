@@ -52,9 +52,9 @@
 ## 📈 Estadísticas GitHub
 
 <div align="center">
-
-<!-- Streak de contribuciones -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pr1nt66&theme=radical&hide_border=true" alt="Racha de contribuciones" height="500">
+  
+| ![Arthur Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pr1nt66&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pr1nt66&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pr1nt66&theme=nord_dark) |
+| :-: | :-: | :-: |
 
 </div>
 
