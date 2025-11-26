@@ -2,10 +2,7 @@
 <!-- Título principal -->
 <h1>🚀 Derek Arguedas | Desarrollador Junior</h1>
 <h3>💻 Transformando ideas en experiencias digitales excepcionales</h3>
-
-<!-- Línea divisoria -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
+  
 </div>
 
 ## 📊 Sobre Mí
