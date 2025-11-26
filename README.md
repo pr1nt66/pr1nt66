@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Título principal -->
-<h1>🚀 Derek Arguedas | Desarrollador Frontend</h1>
+<h1>🚀 Derek Arguedas | Desarrollador Junior</h1>
 <h3>💻 Transformando ideas en experiencias digitales excepcionales</h3>
 
 <!-- Línea divisoria -->
