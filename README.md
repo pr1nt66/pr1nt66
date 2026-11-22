@@ -62,7 +62,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pr1nt66)
 
 **📍 Alajuela, Palmares, Costa Rica**  
-**📱 +506 8602-0447**
 
 </div>
 
