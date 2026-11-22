@@ -18,7 +18,7 @@
 ¡Hola! Soy un **desarrollador de aplicaciones** el cual es un fanatico por las paginas web y la ciberseguridad que siempre busca aprender
 </div>
 
-## 🛠 Stack Tecnológico
+##  Stack Tecnológico
 
 <div align="center">
 
@@ -55,12 +55,10 @@
 
 <div align="center">
 
-###  ¿Tienes un proyecto en mente? ¡Hablemos!
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dererkarguedas6638@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pr1nt66)
 
-** Alajuela, Palmares, Costa Rica**  
+** Costa Rica **  
 
 </div>
 
@@ -68,7 +66,7 @@
 
 <div align="center">
 
-### ⚡ **"Code is like humor. When you have to explain it, it's bad."**
+###  **"Code is like humor. When you have to explain it, it's bad."**
 
 <img src="https://komarev.com/ghpvc/?username=derekarguedas&color=blueviolet&style=flat-square" alt="Visitas al perfil">
 
